@@ -20,6 +20,7 @@ npm install
 npm run dev
 
 Built With
+
 Thirdweb SDK - For interacting with Ethereum blockchain and managing NFT collection
 
 React - Frontend framework
